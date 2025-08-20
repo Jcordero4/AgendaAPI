@@ -1,0 +1,40 @@
+{
+  "contactos": [
+    {
+      "id": 1,
+      "nombre": "Juan Pablo Arias",
+      "correo": "jparias@abc.net"
+      "telefono": "8916-4522"
+    },
+    {
+      "id": 2,
+      "nombre":"Carlos Araya",
+      "correo":"caraya@cualemail.com",
+      "telefono":"6728-3522"
+    },
+   {
+      "id": 3,
+      "nombre":"Mario Barquero",
+      "correo":"mario.barquero@abc.com",
+      "telefono":"6728-3522"
+    },
+    {
+      "id": 4,
+      "nombre":"Juan Carlos Solano",
+      "correo":"juank@miemail.com",
+      "telefono":"6728-3522"
+    },
+    {
+      "id": 5,
+      "nombre":"Maria Céspedes",
+      "correo":"cespedes25@elemail.com",
+      "telefono":"6728-3522"
+    },
+    {
+      "id": 5,
+      "nombre":"Yorleni Flores",
+      "correo":"yflores@unemail.com",
+      "telefono":"6728-3522"
+    },
+  ]
+}
